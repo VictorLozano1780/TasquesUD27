@@ -1,0 +1,32 @@
+body {
+    background-image: url("imagenes/pinguinos.jpg");
+    background-repeat: no-repeat;
+    display: block;
+    margin: 200px 200px 200px 200px;
+    background-position: center;
+}
+
+div {
+    margin: auto;
+}
+
+table {
+    width: 40%;
+    margin: auto;
+}
+
+table,
+th,
+td {
+    text-align: center;
+    border: black 2px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: white;
+}
+
+td {
+    background-color: wheat;
+}

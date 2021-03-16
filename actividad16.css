@@ -1,0 +1,23 @@
+table,
+th,
+td {
+    border: wheat 2px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.titulo1 {
+    background-color: green;
+}
+
+.titulo2 {
+    background-color: salmon;
+}
+
+.pequeGrande {
+    background-color: yellow;
+}
+
+td {
+    background-color: darkkhaki;
+}

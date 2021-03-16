@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+td,
+th {
+    width: 33%;
+}
+
+table,
+td,
+th {
+    border: black 2px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#celda1 {
+    background-color: lightgreen;
+}
+
+.rojo {
+    color: red;
+}
+
+#celda2 {
+    text-align: left;
+    background-color: lightskyblue;
+}
+
+#celda6 {
+    text-align: right;
+    vertical-align: bottom;
+    background-color: purple;
+}

@@ -1,0 +1,15 @@
+table,
+td,
+th {
+    border: lightseagreen 5px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgb(54, 52, 52);
+    color: white;
+}
+
+td {
+    background-color: chartreuse;
+}

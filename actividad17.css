@@ -1,0 +1,170 @@
+body {
+    background-image: url("imagenes/ac.jpg");
+}
+
+div {
+    text-align: center;
+}
+
+.a {
+    border: black 2px solid;
+    background-image: url("imagenes/back_mantel.jpg");
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.b {
+    border: black 2px solid;
+    position: absolute;
+    top: 50px;
+    left: 300px;
+    width: 200px;
+    height: 200px;
+}
+
+.b2 {
+    background-image: url("imagenes/back_mantel.jpg");
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    height: 150px;
+    width: 150px;
+}
+
+.c {
+    border: black 2px solid;
+    background-image: url("imagenes/back_mantel.jpg");
+    background-size: 100%;
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    width: 200px;
+    height: 200px;
+}
+
+.d {
+    border: black 2px solid;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+    left: 800px;
+    width: 200px;
+    height: 200px;
+}
+
+.d2 {
+    background-image: url("imagenes/back_mantel.jpg");
+    background-size: 100%;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    height: 150px;
+    width: 150px;
+}
+
+.e {
+    border: black 2px solid;
+    background-image: url("imagenes/dh.jpg");
+    position: absolute;
+    background-size: 100%;
+    top: 300px;
+    left: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.f {
+    border: black 2px solid;
+    background-color: white;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    width: 200px;
+    height: 200px;
+}
+
+.f2 {
+    background-image: url("imagenes/dh.jpg");
+    background-size: 100%;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    height: 150px;
+    width: 150px;
+}
+
+.g {
+    border: black 2px solid;
+    background-color: white;
+    position: absolute;
+    top: 300px;
+    left: 550px;
+    width: 200px;
+    height: 200px;
+}
+
+.g2 {
+    background-image: url("imagenes/dh_2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 15%;
+    height: 100px;
+    width: 200px;
+}
+
+.h {
+    border: black 2px solid;
+    background-image: url("imagenes/dh_3.jpg");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    width: 200px;
+    height: 200px;
+}
+
+.i {
+    border: black 2px solid;
+    position: absolute;
+    background: linear-gradient(90deg, lightgreen, green);
+    top: 550px;
+    left: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.j {
+    border: black 2px solid;
+    position: absolute;
+    background: linear-gradient(180deg, rgb(255, 255, 255), rgb(90, 54, 0));
+    top: 550px;
+    left: 300px;
+    width: 200px;
+    height: 200px;
+}
+
+.k {
+    border: black 2px solid;
+    position: absolute;
+    background: linear-gradient(180deg, rgb(255, 255, 255), rgb(15, 151, 2));
+    top: 550px;
+    left: 550px;
+    width: 200px;
+    height: 200px;
+}
+
+.l {
+    border: black 2px solid;
+    position: absolute;
+    background: linear-gradient(180deg, rgba(0, 128, 0, 0), rgb(0, 77, 4));
+    top: 550px;
+    left: 800px;
+    width: 200px;
+    height: 200px;
+}

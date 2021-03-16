@@ -1,0 +1,35 @@
+body {
+    background-color: lightskyblue;
+}
+
+.todo {
+    width: 100%;
+    height: 100%;
+}
+
+.suelo {
+    background-image: url(imagenes/f01.png);
+    background-position-y: 100%;
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    background-repeat: repeat-x;
+}
+
+.mario {
+    background-image: url(imagenes/f02.png);
+    background-position-y: 100%;
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.nubes {
+    background-image: url(imagenes/f03.png);
+    background-position-y: 10%;
+    position: absolute;
+    height: 99%;
+    width: 100%;
+    background-repeat: repeat-x;
+}
